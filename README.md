@@ -1,6 +1,6 @@
 # Dijkstra Sweden Route Finder
 
-![Application Screenshot](Dij.png)
+![Application Screenshot](/Users/niusha/Downloads/Dij.png)
 
 This Java application implements Dijkstra's algorithm to find the shortest paths between cities in Sweden. It allows users to select a start and destination city, calculates the optimal route using priority queues, and visualizes the path and distance on a graphical map interface.
 
@@ -19,9 +19,6 @@ This Java application implements Dijkstra's algorithm to find the shortest paths
 - Click on cities to set them as start or destination points.
 - View the shortest path graphically and see the calculated distance.
 - Navigate through cities to understand the optimal route.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
