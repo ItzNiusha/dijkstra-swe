@@ -1,4 +1,4 @@
-# Dijkstra Sweden Path Finder (University Project)
+# Dijkstra Sweden Path Finder
 
 ![Dij](https://github.com/user-attachments/assets/59e688c5-2c4a-41ec-a990-5e1089c85b3c)
 
